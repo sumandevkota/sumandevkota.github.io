@@ -1,0 +1,40 @@
+/* Custom styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+.navbar {
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
